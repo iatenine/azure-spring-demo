@@ -13,6 +13,6 @@ public class HelloController {
 
     @GetMapping("/fruit")
     public String fruit() {
-        return "apple banana kiwi orange lemon";
+        return "apple banana kiwi orange lemon coconut";
     }
 }
