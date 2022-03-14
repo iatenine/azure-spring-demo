@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'rory2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_695E1F28296C449FB6E5F10861C23BE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4E73D485BF34C9A8BCCB34BDD751A21 }}
           package: '*.war'
